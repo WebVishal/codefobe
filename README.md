@@ -1,50 +1,57 @@
-# Welcome to your Expo app 👋
+# React Native User Profile App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📌 Overview
+This is a simple **User Profile App** built using **React Native** and **React Native Paper**. It displays user details including **ID, UID, Name, Username, Email, and Password**. navigate using **Previous** and **Next** buttons.
 
-## Get started
+## 🚀 Features
+- 🔒 Securely **hide/show password**.
+- 📄 Display **user details** in a structured card.
+- ⏪ **Previous** and ⏩ **Next** buttons for navigation.
+- 🎨 Styled using **React Native Paper** for a clean UI.
 
-1. Install dependencies
+## 📦 Installation
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+### 1️⃣ **Clone the Repository**
+```sh
+git clone https://github.com/your-repo/user-profile-app.git
+cd user-profile-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2️⃣ **Install Dependencies**
+```sh
+npm install
+```
 
-## Learn more
+### 3️⃣ **Install Required Packages**
+```sh
+npm install react-native-paper
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 4️⃣ **Run the App**
+For **Android:**
+```sh
+npx expo start
+```
+For **iOS (Mac Only):**
+```sh
+npx expo start --ios
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🏗️ Tech Stack
+- **React Native** (Expo)
+- **React Native Paper** (UI Components)
 
-## Join the community
+## 📷 Screenshots
+(Add screenshots here if available)
 
-Join our community of developers creating universal apps.
+## 💡 Future Improvements
+- 📝 **Edit Profile Feature**
+- 🔄 **Save Profile Image in Storage**
+- 🌍 **Multi-language support**
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🙌 Contributing
+Feel free to fork the repo and submit pull requests! 😊
+
+## 📜 License
+This project is licensed under the MIT License.
+
