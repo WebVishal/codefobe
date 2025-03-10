@@ -13,8 +13,8 @@ This is a simple **User Profile App** built using **React Native** and **React N
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/user-profile-app.git
-cd user-profile-app
+git clone https://github.com/WebVishal/codefobe.git
+cd codefobe
 ```
 
 ### 2️⃣ **Install Dependencies**
@@ -40,9 +40,6 @@ npx expo start --ios
 ## 🏗️ Tech Stack
 - **React Native** (Expo)
 - **React Native Paper** (UI Components)
-
-## 📷 Screenshots
-(Add screenshots here if available)
 
 ## 💡 Future Improvements
 - 📝 **Edit Profile Feature**
